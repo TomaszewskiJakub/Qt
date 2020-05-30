@@ -1,0 +1,45 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>BasicCamera.qml</file>
+        <file>Object.qml</file>
+        <file>ObjectEffect.qml</file>
+        <file>ObjectMaterial.qml</file>
+        <file>shaders/robustwireframe.frag</file>
+        <file>shaders/robustwireframe.geom</file>
+        <file>shaders/robustwireframe.vert</file>
+        <file>Object/trefoil.obj</file>
+        <file>Object/Pojazd.obj</file>
+        <file>Object/Podwozie.obj</file>
+        <file>Object/Os_Obrotu.obj</file>
+        <file>Object/Przednie_Kola.obj</file>
+        <file>Object/Tylne_Kola.obj</file>
+        <file>CarScene.qml</file>
+        <file>ObjectWithMaterial.qml</file>
+        <file>Object/Inne/blender.mtl</file>
+        <file>Object/Inne/blender.obj</file>
+        <file>Object/Inne/POJAZD.mtl</file>
+        <file>Object/Inne/POJAZD.obj</file>
+        <file>Object/Inne/POJAZD1.mtl</file>
+        <file>Object/Inne/POJAZD1.obj</file>
+        <file>Object/Inne/Qt.stl</file>
+        <file>Object/Inne/Silnik.mtl</file>
+        <file>Object/Inne/Silnik.obj</file>
+        <file>Object/Inne/Powierzchnia.obj</file>
+        <file>Object/Inne/Powierzchnia.mtl</file>
+        <file>Object/Inne/KoronaDrzewa.mtl</file>
+        <file>Object/Inne/KoronaDrzewa.obj</file>
+        <file>Object/Inne/Pien.mtl</file>
+        <file>Object/Inne/Pien.obj</file>
+        <file>Icons/networkOFF.png</file>
+        <file>Icons/networkON.png</file>
+        <file>Icons/networksetting.png</file>
+        <file>ArrowScene.qml</file>
+        <file>SettingsWindow.qml</file>
+        <file>NetworkInfo.qml</file>
+        <file>ChartRho.qml</file>
+        <file>ChartAccelerometer.qml</file>
+        <file>ChartSpeed.qml</file>
+        <file>CarBackground.qml</file>
+    </qresource>
+</RCC>
